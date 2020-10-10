@@ -1,0 +1,20 @@
+Kawhi Leonard           Raptors         Toronto         17.7
+Kobe Bryant             Lakers          Los Angelos     25.0
+Kyrie Irving            Celtics         Boston          22.2
+Joel Embid              76ers           Philadelphia    24.3
+Victor Olidipo          Pacers          Indiana         16.4
+Michael Jordan          Bulls           Chicago         30.6
+Lebron James            Cavaliers       Cleveland       27.2
+Stephen Curry           Warriors        San Francisco   23.5
+James Harden            Rockets         Houston         24.3
+Russell Westbrook       Thunder         Oklahoma        23.0
+Draymond Green          Warriors        San Francisco   19.8
+Anthony Davis           Pelicans        New Orleans     23.7
+Giannis Antetokounmpo   Bucks           Milwaukee       18.8
+Paul George             Thunder         Oklahoma        19.8
+Damian Lillard          TrailBlazers    Portland        23.5
+Chris Paul              Rockets         Houston         18.5
+Klay Thompson           Warriors        San Francisco   19.5
+DeMar DeRozan           Raptors         Toronto         19.9
+DeMarcus Cousins        Warriors        San Francisco   21.2
+Kevin Durant            Warriors        San Francisco   27.0
